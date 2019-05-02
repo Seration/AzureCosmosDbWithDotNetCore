@@ -11,8 +11,8 @@ namespace AzureCosmosDbExample.Data
 {
     public class MemberRepository<T> : IMemberRepository<T> where T : class
     {
-        private readonly string Endpoint = "https://mycomos.documents.azure.com:443/";
-        private readonly string Key = "BebMMLPPGvZWdjQW09XkoUri4l4ScCtcKem6BupJnAdXQiazfsdTQxklxmDfR6Kuw7I0uwsjRuequ5gFpOWyrA==";
+        private readonly string Endpoint = "https://xyzxuz.documents.azure.com:443/";
+        private readonly string Key = "XxxXXxyXxxyXyXyxyXXyyXXzZXxXZXzxXXXXXXXZZZXXZZXzXXxzxzyYxyxyyyxxZZXxxxXxxXxXxxXXX==";
         private readonly string DatabaseId = "MemberDB";
         private readonly string CollectionId = "Members";
 
